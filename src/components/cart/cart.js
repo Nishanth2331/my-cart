@@ -93,7 +93,7 @@ const Cart = () =>{
                   </div>
                   <div>
                     <strong className="price">
-                        Price: {product.price * quantity[index]?.count}
+                        Price: {product.price}
                     </strong>
                   </div>
                 </div>
